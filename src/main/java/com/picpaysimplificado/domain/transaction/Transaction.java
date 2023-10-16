@@ -1,6 +1,6 @@
-package com.picpaysimplificado.model.transaction;
+package com.picpaysimplificado.domain.transaction;
 
-import com.picpaysimplificado.model.user.User;
+import com.picpaysimplificado.domain.user.User;
 import jakarta.persistence.*;
 import lombok.*;
 

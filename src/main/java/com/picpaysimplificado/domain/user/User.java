@@ -1,4 +1,4 @@
-package com.picpaysimplificado.model.user;
+package com.picpaysimplificado.domain.user;
 
 import com.picpaysimplificado.dtos.UserDTO;
 import jakarta.persistence.*;

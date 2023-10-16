@@ -1,7 +1,7 @@
 package com.picpaysimplificado.controllers;
 
 import com.picpaysimplificado.dtos.TransactionDTO;
-import com.picpaysimplificado.model.transaction.Transaction;
+import com.picpaysimplificado.domain.transaction.Transaction;
 import com.picpaysimplificado.services.TransactionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
