@@ -4,10 +4,13 @@
 
 ## Objetivo: criar o PicPay de forma simplificada
 
-Tecnologias utilizadas neste projeto:<br>
-* Java para construir a API, Spring Boot, Maven, H2 como DB.
-
-Além disso, realizei alguns testes unitários.
+### Tecnologias utilizadas
+- **Java 17**
+- **Spring Boot 3**
+- **Spring Data JPA**
+- **Spring Lombok**
+- **Maven**
+- **H2 como DB**
 
 ---
 
