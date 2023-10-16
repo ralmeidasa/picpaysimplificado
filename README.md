@@ -4,6 +4,13 @@
 
 ## Objetivo: criar o PicPay de forma simplificada
 
+Tecnologias utilizadas neste projeto:<br>
+* Java para construir a API, Spring Boot, Maven, H2 como DB.
+
+Além disso, realizei alguns testes unitários.
+
+---
+
 Instruções do Desafio:
 Temos 2 tipos de usuários, os comuns e lojistas, ambos têm carteira com dinheiro e realizam transferências entre eles. Vamos nos atentar **somente** ao fluxo de transferência entre dois usuários.
 
